@@ -2,7 +2,7 @@
 
 ## Salvando alterações no Git
 
-# Codigos
+# Codigos em aprendizagem
 
 * comando git push
 * comando git pull - 
