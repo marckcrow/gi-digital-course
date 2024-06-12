@@ -2,10 +2,10 @@
 
 ## Salvando alterações no Git
 
-# Codigos
+# Codigos em aprendizagem
 
-* comando git push - push origin master
-* comando git pull - 
+* comando git push
+* comando git pull
 * comando git log
 * comando git restore
 * comando git fech
